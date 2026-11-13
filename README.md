@@ -4,6 +4,7 @@ Research TikTok Shop's top-selling products and their price, cost and margin, th
 to choose which products to make UGC content for.
 
 - **Plan & architecture:** [docs/PLAN.md](docs/PLAN.md)
+- **Creator business plan (road to 10K sales/month):** [docs/TIKTOK_SHOP_AFFILIATE_PLAN.md](docs/TIKTOK_SHOP_AFFILIATE_PLAN.md)
 - **Database schema:** [db/schema.sql](db/schema.sql)
 - **CSV ingest:** `src/ugc/ingest/load_csv.py`
 
